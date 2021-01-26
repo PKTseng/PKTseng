@@ -5,7 +5,7 @@
 - **Name:** Ken Tseng
 - **Location:** Taiwan, Taipei
 - **Twitter:** [@Chekslckd](https://twitter.com/Chekslckd)
-- **Blog:** pktseng.github.io/
+- **[Blog](pktseng.github.io/)**
 
 ## Side Project
 
