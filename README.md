@@ -1,16 +1,19 @@
-### Hi there 👋
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pktseng&show_icons=true&theme=gotham" alt="pktseng" /></p>
 
-<!--
-**PKTseng/PKTseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- **Name:** Ken Tseng
+- **Location:** Taiwan, Taipei
+- **Twitter:** [@Chekslckd](https://twitter.com/Chekslckd)
+- **Blog:** pktseng.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Side Project
+
+|  #  |    Project    |                                  Demo                                   | Note                                                                              |
+| :-: | :-----------: | :---------------------------------------------------------------------: | --------------------------------------------------------------------------------- |
+|  1  | 表單帳號驗證  | [Demo](https://pktseng.github.io/Web-Side-Project/mission21/index.html) | [Note](https://pktseng.github.io/2020/12/31/formVaild/)                           |
+|  2  |   電影訂位    | [Demo](https://pktseng.github.io/Web-Side-Project/mission22/index.html) | [Note](https://pktseng.github.io/2021/01/16/JavaScript%20-%20Movie-seat-booking/) |
+|  3  |   匯率轉換    | [Demo](https://pktseng.github.io/Web-Side-Project/mission23/index.html) | [Note](https://pktseng.github.io/2021/01/08/changeRate/)                          |
+|  4  |    記帳簿     | [Demo](https://pktseng.github.io/Web-Side-Project/mission24/index.html) | [Note](https://pktseng.github.io/2021/01/13/%E8%A8%98%E5%B8%B3/)                  |
+|  5  |  音樂播放器   | [Demo](https://pktseng.github.io/Web-Side-Project/mission25/index.html) | [Note](https://pktseng.github.io/2021/01/22/Music-player/)                        |
+|  6  | 無限滾動 Blog | [Demo](https://pktseng.github.io/Web-Side-Project/mission26/index.html) | [Note](https://pktseng.github.io/2021/01/26/Infinite_scroll_blog/)                |
