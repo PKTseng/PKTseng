@@ -1,12 +1,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pktseng&show_icons=true&theme=gotham" alt="pktseng" /></p>
 
-## About Me
-
-- **Name:** Ken Tseng
-- **Location:** Taiwan, Taipei
-- **Twitter:** [@Chekslckd](https://twitter.com/Chekslckd)
-- **[Blog](https://pktseng.github.io/)**
-
 ## Side Project
 
 |  #  |      Project      |                                  Demo                                   | Note                                                                              |
@@ -21,3 +14,4 @@
 |  8  |      猜數字       | [Demo](https://pktseng.github.io/Web-Side-Project/mission28/index.html) | [Note](https://pktseng.github.io/2021/02/01/猜數字/)                              |
 |  9  |   年倒數計時器    | [Demo](https://pktseng.github.io/Web-Side-Project/mission29/index.html) | [Note](https://pktseng.github.io/2021/02/05/countdown/)                           |
 | 10  | dragdrop 拖曳效果 | [Demo](https://pktseng.github.io/Web-Side-Project/mission30/index.html) | [Note](https://pktseng.github.io/2021/02/08/dragdrop/)                            |
+| 11  |   GitHub finder   | [Demo](https://pktseng.github.io/Web-Side-Project/mission31/index.html) | [Note]()                                                                          |
