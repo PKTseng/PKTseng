@@ -20,6 +20,7 @@
 * **Role:** Frontend Engineer
 * **Location:** Taiwan, Banqiao
 * **Twitter:** [@Chekslckd](https://twitter.com/Chekslckd)
+* **[Blog](https://pktseng.github.io/codeBlog/)**
 
 ## Projects
 
