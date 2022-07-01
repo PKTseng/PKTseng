@@ -1,7 +1,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pktseng&show_icons=true&theme=gotham" alt="pktseng" /></p>
 <p align="left"> 
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
- <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
@@ -28,31 +27,18 @@
 * [文藻外語學習問卷](https://webinfo-test.wzu.edu.tw/)
 * [台藝大工藝學系歷屆畢展](https://crafts.ntua.edu.tw/graduation/exhibitionList)
 * 台東朗 EC 全通路商物管理系統（開發中）
+* 愛西遊點數商城（開發中）
 
 ## Interest (Programming)
 
-### Frontend
-
-JavaScript Framework
-* Vue.js ( Vuex、Vue Router )
-* Nuxt.js
+* Vue.js
 * JavaScript ( ES6+ )
-
-UI Framework
+* Tailwind CSS
 * VueTify
 * Element UI
 * Bootstrap 5
-* Tailwind CSS
-
-Other 
 * Figma
 * Git 
 * GitHub
-
-## Hobby
-* Travel
-* Cooking
-* Game
-* Music
 
 
