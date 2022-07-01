@@ -29,7 +29,7 @@
 * 台東朗 EC 全通路商物管理系統（開發中）
 * 愛西遊點數商城（開發中）
 
-## Interest (Programming)
+## Programming Language
 
 * Vue.js
 * JavaScript ( ES6+ )
