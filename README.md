@@ -23,9 +23,10 @@
 ## Programming Language
 
 * Vue.js
+* Typescript
 * JavaScript ( ES6+ )
 * Tailwind CSS
-* VueTify
+* Vuetify
 * Element UI
 * Bootstrap 5
 * Figma
