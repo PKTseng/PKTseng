@@ -18,7 +18,6 @@
 * **Name:** Ken
 * **Role:** Frontend Engineer
 * **Location:** Taiwan, Banqiao
-* **Twitter:** [@Chekslckd](https://twitter.com/Chekslckd)
 
 ## Programming Language
 
