@@ -24,12 +24,11 @@
 * Vue.js
 * Typescript
 * JavaScript ( ES6+ )
-* Tailwind CSS
 * Vuetify
 * Element UI
-* Bootstrap 5
 * Figma
 * Git 
 * GitHub
+* Azure Devops
 
 
