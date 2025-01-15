@@ -30,4 +30,5 @@ I am a **Frontend Engineer** based in Banqiao, Taiwan, specializing in building 
 
 ## 🔍 Find Me Online
 - **LinkedIn**: [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ken-tseng-837078108/)
+- **Email**: ken.tseng.swe@gmail.com
 
