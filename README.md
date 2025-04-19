@@ -1,34 +1,46 @@
 # Hi, I'm Ken! 👋
 
-I am a **Frontend Engineer** based in Banqiao, Taiwan, specializing in building and maintaining modern web applications. I am passionate about creating efficient and user-friendly interfaces that provide seamless experiences.
+I'm a **Frontend Engineer** based in Banqiao, Taiwan, currently focused on transitioning into the **Web3 space**. I specialize in building modern, user-friendly interfaces with **Vue 3 + TypeScript**, and I'm passionate about crafting clean, scalable applications that work seamlessly across platforms.
 
 ---
 
 ## 💡 About Me
 
-- 🌐 Living in **Banqiao, Taiwan**
-- 📊 **4+ years** of experience in frontend development
-- 🎨 Passionate about crafting clean, scalable, and intuitive designs
+- 🌐 Based in **Banqiao, Taiwan**
+- 🧑‍💻 **5+ years** of frontend development experience
+- 🔁 Currently transitioning into **Web3 frontend engineering**
+- 🎯 Building production-grade dApps using **Solana Devnet**, **Phantom Wallet**, and deploying to **Vercel**
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Frameworks & Libraries**: Vue.js, Vuetify, Element UI
-- **Languages**: TypeScript, JavaScript (ES6+)
-- **Tools**: Figma, Git, GitHub, Azure DevOps
+- **Frontend**: Vue 3, TypeScript, Pinia, Tailwind CSS
+- **Blockchain**: Solana Devnet, Phantom Wallet, Helius API, Metaplex
+- **Tooling**: Git, GitHub, Vercel, Figma
 
 ---
 
-## 🔎 What I'm Learning
+## 🚀 What I'm Building
 
-- **Backend Development**: Expanding my skillset to include backend technologies
-- **Advanced Frontend Concepts**: Understanding low-level Vue.js mechanisms (reactivity system, virtual DOM)
-- **Next.js**: Building modern server-rendered applications
+- ✅ NFT minting & browsing dApp (Solana Devnet)
+- ✅ Phantom Wallet integration
+- 🛠️ On-chain listing & trading (Metaplex in progress)
+- 📦 Expanding portfolio with dApps like Token Swap UI & Staking
 
 ---
 
-## 🔍 Find Me Online
-- **LinkedIn**: https://www.linkedin.com/in/ken-tseng-837078108
+## 📚 Currently Learning
+
+- Web3 Integration with Solana & Anchor
+- Smart Contract Interaction from Frontend
+- Best practices for dApp UX/UI design
+
+---
+
+## 📫 Find Me Online
+
+- **LinkedIn**: [linkedin.com/in/ken-tseng-837078108](https://www.linkedin.com/in/ken-tseng-837078108)  
 - **Email**: ken.tseng.swe@gmail.com
 
+---
