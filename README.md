@@ -40,7 +40,7 @@ I'm a **Frontend Engineer** based in Banqiao, Taiwan, currently focused on trans
 
 ## 📫 Find Me Online
 
-- **LinkedIn**: [linkedin.com/in/ken-tseng-837078108](https://www.linkedin.com/in/ken-tseng-837078108)  
+- **LinkedIn**: [linkedin.com/in/ken-tseng](https://www.linkedin.com/in/ken-tseng)  
 - **Email**: ken.tseng.swe@gmail.com
 
 ---
