@@ -44,3 +44,7 @@ I'm a **Frontend Engineer** based in Banqiao, Taiwan, currently focused on trans
 - **Email**: ken.tseng.swe@gmail.com
 
 ---
+
+## Side Project
+- **NFT** : [https://nftsideproject.vercel.app/](https://nftsideproject.vercel.app/)
+- **Wallet Connect** : [https://solana-starter-kit.vercel.app/](https://solana-starter-kit.vercel.app/)
