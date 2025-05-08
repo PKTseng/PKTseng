@@ -15,7 +15,7 @@ I'm a **Frontend Engineer** based in Banqiao, Taiwan, currently focused on trans
 
 ## 🔧 Tech Stack
 
-- **Frontend**: Vue 3, React, TypeScript, Pinia, Tailwind CSS
+- **Frontend**: Vue 3、Vue Router、Pinia、TypeScript、JavaScript (ES6+)、Tailwind CSS、Vuetify、SCSS、RESTful API
 - **Blockchain**: Solana Devnet, Phantom Wallet, Helius API, Metaplex
 - **Tooling**: Git, GitHub, Vercel, Figma
 
