@@ -1,6 +1,6 @@
 # Hi, I'm Ken! 👋
 
-I'm a **Frontend Engineer** based in Banqiao, Taiwan, currently focused on transitioning into the **Web3 space**. I specialize in building modern, user-friendly interfaces with **Vue 3 + TypeScript**, and I'm passionate about crafting clean, scalable applications that work seamlessly across platforms.
+I'm a **Frontend Engineer** based in Banqiao, Taiwan, currently focused on transitioning into the Web3 space. I specialize in building modern, user-friendly interfaces with Vue, React, and TypeScript, and I'm passionate about crafting clean, scalable applications that work seamlessly across platforms.
 
 ---
 
