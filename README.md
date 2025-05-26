@@ -15,7 +15,7 @@ I'm a **Frontend Engineer** based in Banqiao, Taiwan, currently focused on trans
 
 ## 🔧 Tech Stack
 
-- **Frontend**: Vue 3、Vue Router、Pinia、TypeScript、JavaScript (ES6+)、Tailwind CSS、Vuetify、SCSS、RESTful API
+- **Frontend**: React、Vue、Vue Router、Pinia、TypeScript、JavaScript (ES6+)、Tailwind CSS、shadcn ui、Vuetify、SCSS、RESTful API
 - **Blockchain**: Solana Devnet, Phantom Wallet, Helius API, Metaplex
 - **Tooling**: Git, GitHub, Vercel, Figma
 
@@ -23,10 +23,10 @@ I'm a **Frontend Engineer** based in Banqiao, Taiwan, currently focused on trans
 
 ## 🚀 What I'm Building
 
-- ✅ NFT minting & browsing dApp (Solana Devnet)
-- ✅ Phantom Wallet integration
-- 🛠️ On-chain listing & trading (Metaplex in progress)
-- 📦 Expanding portfolio with dApps like Token Swap UI & Staking
+✅ Crypto Data Dashboard – my first DeFi project: built with React & TypeScript, integrates CoinGecko API to display live token prices, NFT trends, exchange rankings, and market insights
+✅ NFT minting & browsing dApp (Solana Devnet)
+✅ Phantom Wallet integration
+📦 Expanding portfolio with on-chain dApps like Token Swap UI & Staking (on Solana)
 
 ---
 
