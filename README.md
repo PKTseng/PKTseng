@@ -46,6 +46,6 @@ I'm a **Frontend Engineer** based in Banqiao, Taiwan, currently focused on trans
 ---
 
 ## Side Project
-- **DeFi** : [[https://nftsideproject.vercel.app/](https://de-fi-9fmh.vercel.app/)]
+- **DeFi** : [https://nftsideproject.vercel.app/](https://de-fi-9fmh.vercel.app/)
 - **NFT** : [https://nftsideproject.vercel.app/](https://nftsideproject.vercel.app/)
 - **Wallet Connect** : [https://solana-starter-kit.vercel.app/](https://solana-starter-kit.vercel.app/)
