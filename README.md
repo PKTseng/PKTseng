@@ -23,10 +23,10 @@ I'm a **Frontend Engineer** based in Banqiao, Taiwan, currently focused on trans
 
 ## 🚀 What I'm Building
 
-✅ Crypto Data Dashboard – my first DeFi project: built with React & TypeScript, integrates CoinGecko API to display live token prices, NFT trends, exchange rankings, and market insights
-✅ NFT minting & browsing dApp (Solana Devnet)
-✅ Phantom Wallet integration
-📦 Expanding portfolio with on-chain dApps like Token Swap UI & Staking (on Solana)
+- ✅ Crypto Data Dashboard – my first DeFi project: built with React & TypeScript, integrates CoinGecko API to display live token prices, NFT trends, exchange rankings, and market insights
+- ✅ NFT minting & browsing dApp (Solana Devnet)
+- ✅ Phantom Wallet integration
+- 📦 Expanding portfolio with on-chain dApps like Token Swap UI & Staking (on Solana)
 
 ---
 
